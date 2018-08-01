@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![minion](http://harulab.net/wp-content/uploads/2014/02/Chiquita-DM2-Minion-HARU-021114.jpg)
